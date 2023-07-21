@@ -1,4 +1,5 @@
 https://en.oi-wiki.org/contest/oi/#noip   OI-wiki
+https://riju.codes/ 在线运行各类编程语言代码
 https://oi-wiki.org/math/linear-algebra/matrix  中文矩阵
 https://mp.weixin.qq.com/s/77kyWiJGnJNcBLj_WEeNJA 模拟环境在线模拟赛
 https://github.com/CannedGrape/oi/find/main  试题
@@ -9,6 +10,7 @@ https://csdiy.wiki/ cs自学指南
 https://www.xiaogd.net/book/spcp/  从零开始打造一台简易计算机
 https://godbolt.org/ 在线编译程序 反汇编
 https://www.hello-algo.com/ 图解算法 hello-算法
+https://the-algorithms.com/zh_Hans  你好算法
 https://github.com/krahets/hello-algo 有完整源代码方便调试理解
 https://visualgo.net/zh 算法可视化 全球十大名校新加坡国立大学教授开发
 https://hackingcpp.com/ c++最佳网站
@@ -24,5 +26,55 @@ https://program-think.blogspot.com/2019/11/POSIX-TUI-from-TTY-to-Shell-Programmi
 https://linuxtools-rst.readthedocs.io/zh_CN/latest/ linux工具教程
 https://sudongyuer.github.io/learn-vim/ vi通关
 https://github.com/jaywcjlove/linux-command chrome 插件
+https://github.com/vasanthk/how-web-works   
+https://xiaolincoding.com/ 小林图解计算机基础
+https://github.com/lkimuk/the-book-of-modern-cpp/releases 开源图书C++
+https://samwho.dev/memory-allocation/ 内存如何分配
+https://programming-idioms.org/all-idioms  编程惯用语 常用语言如何实现
+找一个很古老很有回忆的「中文家用游戏博物馆」，可以体验那些历史上上由中国大陆及港澳台开发者开发的，以家用游戏机和掌上游戏机为平台的电子游戏，甚至还收藏了很多8090年的电脑，甚至还可以模拟运行，很牛逼。
+http://compumuseum.com 
+应该有高中时候很喜欢化学的同学，我唯一记得的知识只有「氢氦锂铍硼 / 碳氮氧氟氖 / 钠镁铝硅磷 / 硫氯氩钾钙」了，看到一个高颜值元素周期表的工具，做得很漂亮，点击进去还可以看到元素详细的介绍。
+🤖 https://periodic-table-pro.netlify.app
+#工程师工具  哈哈哈哈，发现一个超级逗的工具，将你的网址可以转成全部是 ooooooo，可以用在一些惊喜感或者逗逗朋友的场景，可以试试。
+🤖 https://ooooooooooooooooooooooo.ooo 
+最近看到一个很牛逼的三维太空可视化探索工具「NASA's Eyes」，效果很精美，可以实时体会到从太空可地球、行星、卫星运行状态、位置，对于星文爱好者甚至可以用这个来探索下太阳系和宇宙中好玩的东西。
+🤖 https://eyes.nasa.gov
+ 发现一个仿制的 90 年代电视效果的视频网站，可以通过它点击不同的频道来看当时的MV、电视节目、电影，甚至还可以搜索那个时代的广告，太好玩了。
+🤖 https://my90stv.com
+看到一个高颜值精致的工程师工具箱「IT Tools」, 提供加解密、常用转换、Web处理工具、图片、开发、数学等常用随手的处理，使用效率上做的不错。
+🤖 https://it-tools.tech
+看到一个假信息生成工具叫「MyFakeInfo」,常见的美国社保卡、身份证、Android设备以及信用卡等信息的生成，看了下 FAQ ，所有信息使用随机规则生成假信息，无法律风险，可以用在需要真实信息校验测试、互联网假身份、国外网站注册等场景，但请勿用来做坏事😂。
+🤖 https://myfakeinfo.com
+看到一个 All in One 的在线工具，除了提供图片、PDF、文本处理、加解密、Web常用工具外，还提供了一个社交媒体的工具，比如说生成 Youtube 缩略图、假推特生成器、Instagram 文章生成等等。
+🤖 https://allinone.tools
+对于刚刚接触开源的同学，这个Github官方的「开源软件指南」值得一读，即使是弄了很久开源的同学时不时看一看都还是可以看到不少对于做好开源的好建议。
+🤖 https://opensource.guide/zh-hans/
+
+看到一个不错的「英语自学指南」，讲了讲如何训练和实践，以及一些不错的学习和记忆的方法，可以一看。个人觉得学习一门语言更重要还是坚持 + 有一个不错的练习环境至关重要。
+🤖 https://bewaters.me/limxtop/2021/08/18/English-introduction/
+https://xmind.app/share/?category=zh 思维导图搜索
+ 发现一个叫「Web Design Museum」的宝藏网站，收藏从1991年以来的 2000 多个精心挑选的网站/软件/Logo的历史变化，可以很好看明白当时的一些设计趋势，随便一看会让发现不少有趣的东西。
+🤖 https://webdesignmuseum.org
+
+看到一个通过可视化的方式来学习统计学的网站「看见统计」，包含概率论、概率分布、统计推断、回归分析等内容。整体很是生动形象，可以很好的补充遗漏知识点，对于工作中常见分析思路有不少帮助作用。
+🤖 https://seeing-theory.brown.edu/cn.html
+找了很久终于找到一个不错且易用的开发者工具箱叫做「He3」，有开发过程中常用的链接编码解码、JSON 对比、二维码解析、定时任务表达式编写、格式转换等功能，比用浏览器的 console 工具方便不少，很值得一试。
+🤖 https://he3.app
+
+推荐一个很简单好用的命令行手册工具 tldr，安装后对于忘记的命令，只需要执行 「tldr 名称」即可告诉你详细的使用，如  tldr ping、tldr tar、tldr yarn，适合经常使用命令行的同学，展示显示效果也还不错，感兴趣可以试试~ 🤖 npm install -g tldr  ⛷️ https://tldr.sh
+
+发现一个不错的软件工程师学习路线图，很适合当你计算机基础OK以后，在要决定做哪一块的时候，如说前端、后端、QA、区块链开发岗，此外里面还包括细分的方向的学习路线图，整体很新很实用，还提供下载的功能，内容上能够很好满足当前互联网工程师的岗位要求。
+
+最近看到一个很不错的正则学习的工具，正则对于程序员而言是一个处理字符串的厉害工具，但是现在能写正则的程序员反而越来越少了，此工具提供了一个循序渐进的游戏化的思路来带你正则从零基础到高阶，此外提供了快速查找、playground等功能，空闲时可以试试。
+https://regexlearn.com/zh-cn
+推荐这个《命令行的艺术》，很适合工程师。
+
+熟练使用命令行是一种常常被忽视，或被认为难以掌握的技能，但实际上，它会提高你作为工程师的灵活性以及生产力。 https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md
+推荐一个程序员快速参考备忘清单速查表 https://wangchujiang.com/reference/index.html ，做得还挺不错的，对于中文用户很友好，可以理解你在敲代码过程中容易忘记的东西，大部分可以从这里查找到，如脚本、Docker 命令、Nginx 配置、ES6 语法等
+用 Pake 打了一个 Mac 包，Github 下载 https://github.com/tw93/Pake
+
+推荐一个几乎能够解决你所有文件处理问题的免费在线工具 TinyWoW https://tinywow.com , 包括各种文档格式转换、PDF 操作编辑、视频转换、移除图片背景，总之在我们常见的各类PDF/视频/图片/文档/地址/压缩等方面都可以找到你需要的，保存书签后，用完即走，免去下载收费软件的麻烦。
 
 
+
+🤖 https://roadmap.sh
