@@ -78,3 +78,5 @@ https://regexlearn.com/zh-cn
 
 
 🤖 https://roadmap.sh
+
+https://www.navidrome.org/docs/usage/configuration-options/  本地网页音乐播放器
