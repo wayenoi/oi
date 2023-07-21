@@ -1,0 +1,28 @@
+https://en.oi-wiki.org/contest/oi/#noip   OI-wiki
+https://oi-wiki.org/math/linear-algebra/matrix  中文矩阵
+https://mp.weixin.qq.com/s/77kyWiJGnJNcBLj_WEeNJA 模拟环境在线模拟赛
+https://github.com/CannedGrape/oi/find/main  试题
+https://zcoi.github.io/
+https://ac.nowcoder.com/acm/archive
+https://learnxinyminutes.com/  
+https://csdiy.wiki/ cs自学指南
+https://www.xiaogd.net/book/spcp/  从零开始打造一台简易计算机
+https://godbolt.org/ 在线编译程序 反汇编
+https://www.hello-algo.com/ 图解算法 hello-算法
+https://github.com/krahets/hello-algo 有完整源代码方便调试理解
+https://visualgo.net/zh 算法可视化 全球十大名校新加坡国立大学教授开发
+https://hackingcpp.com/ c++最佳网站
+https://shuxuele.com 数学知识学习
+https://www.tutorialspoint.com/unix_terminal_online.php 在线练习linux命令
+https://github.com/jaywcjlove/linux-command Linux命令行
+https://www.masswerk.at/jsuix/index.html 命令行在线练习
+https://www.lanqiao.cn/courses/68 linux命令真实环境实例练习免费课程
+https://missing-semester-cn.github.io/ 计算机教育中缺失的一课
+https://linuxcommand.org/lc3_learning_the_shell.php 学习Linux命令
+https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md 命令行的艺术
+https://program-think.blogspot.com/2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.html 扫盲Linux命令行
+https://linuxtools-rst.readthedocs.io/zh_CN/latest/ linux工具教程
+https://sudongyuer.github.io/learn-vim/ vi通关
+https://github.com/jaywcjlove/linux-command chrome 插件
+
+
